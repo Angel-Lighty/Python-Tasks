@@ -1,3 +1,3 @@
 kilo = int(input("Введите количество килограмм: "))
-centner = kilo / 100
-print(f'Центнеров: {centner}')
+tonna = kilo / 1000
+print(f'Тонн: {tonna}')
